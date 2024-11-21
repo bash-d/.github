@@ -22,7 +22,7 @@ The `bash-d` ecosystem complements existing Bash setups and enables a more effic
 
 ### Streamline Development and Administration
 
-* _Optimize Productivity_ - Automate workflows by eliminating manual shell processes & typing, redirecting focus to high-value strategic activities.
+* _Optimize Productivity_ - Automate workflows by eliminating manual shell processes & repetitive typing, redirecting focus to high-value strategic activities.
 * _Simplify Environment Management_ - Maintain consistent Bash configurations across multiple projects without modifying core system files.
 
 ### Code Organization and Modularity
