@@ -4,7 +4,7 @@ This organization is dedicated to implementing a smarter, more adaptable solutio
 
 ## The Problem
 
-Most Linux distributions rely on modifying Bash's default startup behavior, utilizing `/etc/profile.d` as a system-wide mechanism to autoload environment profiles. While this approach has significant value, it lacks sophistication and general availability for non-root users and project directories.
+Most Linux distributions rely on modifying Bash's default startup behavior, utilizing `/etc/profile.d` as a system-wide mechanism to autoload environment profiles. While this approach has significant value, it lacks sophistication and general availability for non-root users & project directories.
 
 ## The Solution
 
